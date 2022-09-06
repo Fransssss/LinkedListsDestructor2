@@ -1,5 +1,12 @@
+// Fransiskus Agapa
+// Practices make improvement - Have Fun !!
+// :)
+
 
 // Learning process
+// -----------------
+// understanding how destrcutor work in linkedlist
+// -----------------
 
 #include <iostream>
 #include "Node.h"
